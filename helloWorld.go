@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"test_1/greetings"
+	"decouverte_go/greetings"
 )
 
 func main() {
